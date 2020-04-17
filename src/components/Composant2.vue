@@ -1,6 +1,6 @@
 <template>
   <div class="hellobis">
-    <h1>Composant 2</h1>
+    <h1>Composant 2 !</h1>
     <h1>{{ msgbis }}</h1>
   </div>
 </template>
